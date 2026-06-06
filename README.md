@@ -44,4 +44,4 @@ https://drive.google.com/file/d/1kNbVgjQ0yF5wgnU3hdm9VWKdWUCJghF5/view?usp=shari
 ## Author
 **Sampreeta V**
 LinkedIn: https://www.linkedin.com/in/sampreeta-v-3022ab2a3
-GitHub: https://github.com/Sampreeta20
+GitHub: https:https://github.com/Sampreeta2006
